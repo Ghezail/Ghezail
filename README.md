@@ -82,10 +82,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>Mysql
+     </td>
+  
+   <td align="center" width="96">
+      <a href="/">
+        <img src="https://camo.githubusercontent.com/87fa402da6f8a5b81d55c7bcf51e6038898ad37cd162aa3927b44f98c68914b7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f77696e646f77732d31302e706e67" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
     </td>
-    
-    </td>
-    
+ 
      
    </tr>
   </table>
