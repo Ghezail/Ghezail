@@ -12,8 +12,6 @@
 
 </br>
 
-```bash
-```
 </br>
 
 ### <b>That's what I do?</b> :hearts:
@@ -33,8 +31,7 @@
 
 
 </br>
-### <b>What do I usually use?</b> :octocat:
-
+### <b> What do I usually use?</b> :octocat:
 ##
 
 </br>
@@ -81,14 +78,13 @@
       </a>
       <br>Figma
     </td>
-    
-      <tr>
-      <td align="center" width="96">
-        <a href="/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
-        </a>
-        <br>MySql
-      </td>
+     <tr>
+    <td align="center" width="96">
+      <a href="/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
+      </a>
+      <br>MySql
+    </td>
      
    </tr>
   </table>
