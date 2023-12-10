@@ -82,6 +82,7 @@
       <br>Figma
     </td>
     
+      <tr>
       <td align="center" width="96">
         <a href="/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
