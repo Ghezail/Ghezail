@@ -80,9 +80,9 @@
     
        <td align="center" width="96">
       <a href="/">
-        <img src="https://camo.githubusercontent.com/7131f4436c32be236b582de559e96e8bc298c85f54006f02696b054c5930b2b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f637373332e706e67" width="48" height="48" alt="CSS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
       </a>
-      <br>CSS
+      <br>MySql
     </td>
      
    </tr>
