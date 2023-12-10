@@ -5,7 +5,7 @@
 ### **About me** 👋
 
 <p align="left">
- I am IT fresh graduate , programming is something I really enjoy doing and I spend good hours of my day doing it.
+ Programming is something I really enjoy doing and I spend good hours of my day doing it.
 </p>
 
 </br>
