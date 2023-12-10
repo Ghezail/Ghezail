@@ -73,17 +73,19 @@
    
   <td align="center" width="96">
       <a href="/">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="HTML" />
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="figma" />
       </a>
       <br>Figma
     </td>
-    
-       <td align="center" width="96">
+     <td align="center" width="96">
       <a href="/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySql" />
       </a>
-      <br>MySql
+      <br>Mysql
     </td>
+    
+    </td>
+    
      
    </tr>
   </table>
