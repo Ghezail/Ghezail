@@ -73,9 +73,9 @@
    
   <td align="center" width="96">
       <a href="/">
-        <img src="https://camo.githubusercontent.com/937d189e89eebf19ca83d796f68380657645f49a05c9ef6fbc00020ff7ab32f9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f68746d6c2d352e706e67" width="48" height="48" alt="HTML" />
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>HTML
+      <br>Figma
     </td>
     
        <td align="center" width="96">
